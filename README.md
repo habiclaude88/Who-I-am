@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @habiclaude88
 - 👀 I’m interested in Big Data using machine learning
 - 🌱 I’m currently learning Master of Science in Data Science in Econometrics
-- 💞️ I’m looking to collaborate on improving sales, product, preduction 
+- 💞️ I’m looking to collaborate on improving sales, product, prediction 
 - 📫 How to reach me (habiclaude88@gmail.comm or tel:+250788597359
 
 <!---
